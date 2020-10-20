@@ -1,4 +1,4 @@
-## Plaiooldprogrammer
+## Plainoldprogrammer
 ### This is my personal set of projects that I'm working on to get fun and keep learning. 😄
 
 <!--
