@@ -1,4 +1,5 @@
-### Hi there 👋
+## Plaiooldprogrammer
+### This is my personal set of projects that I'm working on to get fun and keep learning. 😄
 
 <!--
 **plainoldprogrammer/plainoldprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
